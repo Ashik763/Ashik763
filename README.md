@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm Ashik Ghosh</h1>
-<h3 align="center">A passionate frontend developer and Competitive Programmer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer and Competitive Programmer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **a project named MamaLaundry!**
 
