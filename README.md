@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a project named **My Blog!**
 
-- 🌱 I’m currently learning **React,Nodejs,c++,data structure and algorithm**
+- 🌱 I’m currently learning **Data structure and algorithm**
 
 - 💬 Ask me about **react,javaScript,c++,c**
 
