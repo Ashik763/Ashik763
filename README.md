@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently solving problems on **Codeforces!**
 
-- 🌱 I’m currently learning **Data structure and algorithm**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **react,javaScript,c++,c**
 
