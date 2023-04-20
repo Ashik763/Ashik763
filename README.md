@@ -3,9 +3,7 @@
 <h1 align="center"> I'm Ashik Ghosh</h1>
 <h3 align="center">A passionate MERN stack developer and Competitive Programmer from Bangladesh</h3>
 
-- 🔭 I’m currently solving problems on **Codeforces!**
-
-- 🌱 I’m currently learning **JAVA**
+- 🔭 I’m currently solving problems on **Leetcode!**
 
 - 💬 Ask me about **react,javaScript,c++,c**
 
