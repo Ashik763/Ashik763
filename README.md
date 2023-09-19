@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,javaScript,c++,c**
 
-- 📫 How to reach me **ashikghosh763@gmail.com     or  https://www.linkedin.com/in/ashik-ghosh-3290a31a6/ or  https://www.facebook.com/ashikghosh763/**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
