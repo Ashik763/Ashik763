@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently solving problems on **Leetcode!**
 
-- 💬 Ask me about **react,javaScript,c++,c**
+- 💬 Ask me about **Nextjs,typeScript,c++,c**
 
 
 
