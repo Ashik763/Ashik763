@@ -11,12 +11,13 @@ I am a final-year **Computer Science** student passionate about building things.
 - **Frontend** - `Next.js` `React` `Redux`
 - **Backend** - `Node.js` `Express.js` `Prisma` `GraphQL`
 - **Databases, DevOps & Others** - `MongoDB` `MySQL` `PostgreSQL` `Redis` `Docker`  `Linux` `AWS` `Jest`
-<p>
 
 
-  
-<a href="https://leetcode.com/u/Ashik763" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+
+
+<p>  
+  <a href="https://leetcode.com/u/Ashik763" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
 
