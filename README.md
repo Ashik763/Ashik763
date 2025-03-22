@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Ashik Ghosh</h1>
 <h3 align="center">A passionate MERN stack developer and Competitive Programmer from Bangladesh</h3>
 
-- 🔭 I’m currently solving problems on **Leetcode!**
+- 🔭 I’m currently building a webapp for my department!
 
 - 💬 Ask me about **Nextjs,typeScript,c++,c**
 
