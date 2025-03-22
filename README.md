@@ -12,3 +12,4 @@ I am a final-year **Computer Science** student passionate about building things.
 - **Backend** - `Node.js` `Express.js` `Prisma` `GraphQL`
 - **Databases, DevOps & Others** - `MongoDB` `MySQL` `PostgreSQL` `Redis` `Docker`  `Linux` `AWS` `Jest`
 
+mail: ashikghosh763@gmail.com
