@@ -2,7 +2,7 @@
 ### Hey there! I'm Ashik Ghosh 👋
 
 
-I am a  **Computer Science** student passionate about building things. Also I enjoy solving algorithmic problems and improving my problem-solving skills. I've worked on a bunch of projects for around 4 years now. I've recently been **learning more about cloud computing, distributed systems, databases**.
+I am a  **Computer Science** student passionate about building things. Also I enjoy solving algorithmic problems and improving my problem-solving skills. I've worked on a bunch of projects for around 4 years now. I've recently been **learning more about backend engineering, cloud computing, distributed systems, databases**.
 
 
 
